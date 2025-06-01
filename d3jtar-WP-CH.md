@@ -6,7 +6,7 @@
 
 示例文件如下：
 
-文件名：payload.陪 sp --> payload.jsp
+文件名：payload.陪sp --> payload.jsp
 
 ```java
 <%@ page import="java.io.*" %>
